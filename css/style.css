@@ -1,0 +1,30 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    display: block;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40PX;
+}
+.invitacion{
+    text-align: center;
+}
+.cuadros-100 {
+    text-align: center;
+
+    background-color: aqua;
+    background-size: cover;
+}
+.cuadros-50{
+    text-align: justify;
+    
+    display: inline-block;
+}
+button{
+    
+}
